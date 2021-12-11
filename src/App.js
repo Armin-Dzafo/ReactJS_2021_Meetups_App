@@ -3,7 +3,7 @@ import AllMeetupsPage from "./pages/AllMeetups";
 import NewMeetupPage from "./pages/NewMeetup";
 import FavoritesPage from "./pages/Favorite";
 import Layout from './components/layouts/Layout';
-import './App.css';
+// import './App.css';
 
 function App() {
   return (
